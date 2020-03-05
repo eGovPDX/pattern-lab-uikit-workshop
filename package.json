@@ -1,0 +1,19 @@
+{
+  "name": "pl-uikit-workshop-artifacts-only",
+  "version": "1.0.0",
+  "description": "build of version 5.7.1 of pl uikit-workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joekarasek/pl-uikit-workshop-artifacts-only.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joekarasek/pl-uikit-workshop-artifacts-only/issues"
+  },
+  "homepage": "https://github.com/joekarasek/pl-uikit-workshop-artifacts-only#readme"
+}
