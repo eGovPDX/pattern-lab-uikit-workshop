@@ -1,19 +1,17 @@
 {
-  "name": "pl-uikit-workshop-artifacts-only",
-  "version": "1.0.0",
-  "description": "build of version 5.7.1 of pl uikit-workshop",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name": "@pattern-lab/uikit-workshop",
+  "version": "5.7.1",
+  "description": "Front-end assets and templates for the default Pattern Lab workshop view, see @pattern-lab/uikit-workshopv5.7.1",
+  "main": "",
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joekarasek/pl-uikit-workshop-artifacts-only.git"
+    "url": "git+https://github.com/eGovPDX/pattern-lab-uikit-workshop.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joekarasek/pl-uikit-workshop-artifacts-only/issues"
+    "url": "https://github.com/eGovPDX/pattern-lab-uikit-workshop/issues"
   },
-  "homepage": "https://github.com/joekarasek/pl-uikit-workshop-artifacts-only#readme"
+  "homepage": "https://github.com/eGovPDX/pattern-lab-uikit-workshop#readme"
 }
